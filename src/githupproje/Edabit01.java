@@ -9,9 +9,10 @@ public class Edabit01 {
 		System.out.println("ekeden mastere");
 		System.out.println("ekeden mastere");
 		System.out.println("ekeden mastere");
+		System.out.println("confligt");
 		System.out.println("ekeden mastere");
 		System.out.println("ekeden mastere");
-		System.out.println("ekeden mastere");
+		System.out.println("confligt");
 		System.out.println("ekeden mastere");
 		
 
